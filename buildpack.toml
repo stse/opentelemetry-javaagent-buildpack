@@ -19,8 +19,8 @@ api = "0.5"
     name = "OpenTelemetry Java Agent"
     sha256 = "7725e7a801c9fd44536ffcd614f2c46f66e26e3ceb59ec4802f7184904260611"
     stacks = ["io.buildpacks.stacks.bionic", "io.paketo.stacks.tiny", "*"]
-    uri = "https://github.com/open-telemetry/opentelemetry-java-instrumentation/releases/download/v1.13.0/opentelemetry-javaagent.jar"
-    version = "1.13.0"
+    uri = "https://github.com/open-telemetry/opentelemetry-java-instrumentation/releases/download/v1.13.1/opentelemetry-javaagent.jar"
+    version = "1.13.1"
 
     [[metadata.dependencies.licenses]]
       type = "Apache-2.0"
